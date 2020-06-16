@@ -1,1 +1,24 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        WDM下载器
+tagline:      最新版3.1.1，2019年89月29日更新
+baseurl:      ""
+paginate:     1
+locale:       "zh-CN"
+
+# About/contact
+author:
+  name:       DozenTools
+  url:        https://www.dozentools.com
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+
+
+version:
+  win64: https://www.lanzous.com/i6fr6dc
+  win32: https://www.lanzous.com/i6fr5wf
+  mac: https://www.lanzous.com/i6fr6rg
