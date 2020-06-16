@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ site.locale }}">
+
+{% include head.html %}
+
+<body>
+<section class="page-header">
+    <h1 class="project-name">{{ site.title }}</h1>
+    <h2 class="project-tagline">{{ site.tagline }}</h2>
+    <a href="{{site.version.win64}}" target="_blank" class="btn">Windows 64位</a>
+    <a href="{{site.version.win32}}" target="_blank" class="btn">Windows 32位</a>
+    <a href="{{site.version.mac}}" target="_blank" class="btn">MacOS版本</a>
+</section>
+
+<section class="main-content">
+
+    {{ content }}
+
+    {% include page-footer.html %}
+
+</section>
+<script>
+  var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?74874c216e000c0845d3f337346b3ac0";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+  })();
+</script>
+
+</body>
+</html>

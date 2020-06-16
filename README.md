@@ -1,3 +1,2 @@
 ```make dev```
-```make build```
-```make publish```
+```使用github page托管网页```

@@ -1,14 +1,15 @@
 # Setup
-title:        WDM下载器
-tagline:      最新版3.1.1，2019年89月29日更新
+title:        SiteAngle
+tagline:      让您的网站永久可被访问，不需要更改域名。最新版2.0.0
+desc:
 baseurl:      ""
 paginate:     1
 locale:       "zh-CN"
 
 # About/contact
 author:
-  name:       DozenTools
-  url:        https://www.dozentools.com
+  name:       SiteAngle
+  url:        https://siteangel.github.io/
 
 # Gems
 gems:
