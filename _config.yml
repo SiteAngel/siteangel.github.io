@@ -1,6 +1,6 @@
 # Setup
 title:        SiteAngle
-tagline:      让您的网站永久可被访问，不需要更改域名。最新版2.1.1
+tagline:      让您的网站永久可被访问，不需要更改域名。最新版2.2.1
 desc:
 baseurl:      ""
 paginate:     1
@@ -20,6 +20,6 @@ markdown: kramdown
 
 
 version:
-  win64: https://lanzoucloud.lanzous.com/iaYyldtndwf
-  win32: https://lanzoucloud.lanzous.com/i7nvedtnewb
-  mac: https://lanzoucloud.lanzous.com/i5Sekdtnfrc
+  win64: https://lanzoucloud.lanzous.com/ikZjNe0dlzi
+  win32: https://lanzoucloud.lanzous.com/ifnp4e0djhi
+  mac: https://lanzoucloud.lanzous.com/iw8N3e0diej
